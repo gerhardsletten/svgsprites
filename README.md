@@ -1,4 +1,4 @@
 svgsprites
 ==========
 
-Node js tool to generate sprites of both standard images and svg images
+Node js tool to generate sprites of both standard images and svg imagest
