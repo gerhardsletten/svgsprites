@@ -1,6 +1,6 @@
 # svgsprites
 
-Node js tool to generate sprites of both standard images and svg images. It is a modified version of [SpriteGen](https://npmjs.org/package/spritegen/) with code from [svg2png](https://npmjs.org/package/svg2png) witch first convert all svg-images to PNG before creating a sprite.png and sprite.css of all images.
+Node js tool to generate sprites of both standard images and svg images. It is a modified version of [SpriteGen](https://npmjs.org/package/spritegen/) with code from [svg2png](https://npmjs.org/package/svg2png) which first convert all svg-images to PNG before creating a sprite.png and sprite.css of all images.
 
 ## Requirements
 
