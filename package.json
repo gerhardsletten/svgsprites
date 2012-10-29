@@ -28,13 +28,22 @@
   "scripts": {
     "test": "grunt test"
   },
-  "devDependencies": {
+  "dependencies": {
     "grunt": "~0.3.17",
     "canvas": "git://github.com/LearnBoost/node-canvas.git",
     "underscore": "*",
     "optimist": "*"
   },
-  "keywords": [],
+  "keywords": [
+    "svg",
+    "sprite",
+    "sprites",
+    "cli",
+    "tool",
+    "png",
+    "jpg",
+    "generator"
+    ],
   "preferGlobal": "true",
   "bin": {
     "svgsprites" : "lib/svgsprites.js"
